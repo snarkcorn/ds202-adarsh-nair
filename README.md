@@ -1,2 +1,4 @@
-# ds202-adarsh-nair
-ode to an academic advisor
+# D S 202 Repo
+> Happy   : No clue.
+
+> Crappy  : Still no clue.
